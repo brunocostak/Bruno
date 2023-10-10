@@ -7,16 +7,16 @@ Olá! Meu nome é Bruno Costa Krumreich, e sou um desenvolvedor apaixonado por t
 
 ## Contato 📬
 
-- ✉️ Email: bruno.motteer@gmail.com(mailto:bruno.motteer@gmail.com)
-- 📞 Telefone: +55 53 999991698(tel:+5553999991698)
+- ✉️ Email: bruno.motteer@gmail.com (mailto:bruno.motteer@gmail.com)
+- 📞 Telefone: +55 53 999991698 (tel:+5553999991698)
 - 🌐 LinkedIn: https://www.linkedin.com/in/brunokrumreick/
-- WhatsApp: +55 53 999991698(https://wa.me/5553999991698)
+- WhatsApp: +55 53 999991698 (https://wa.me/5553999991698)
 
 ## Projetos Destacados 🌟
 
 Aqui estão alguns dos projetos dos quais mais me orgulho:
 
-- App de Receitas ((https://github.com/brunocostak/Projeto_App_de_Receitas)): Um App para fazer suas receitas favoritas
+- App de Receitas (https://github.com/brunocostak/Projeto_App_de_Receitas): Um App para fazer suas receitas favoritas
   
 
 ## Currículo 📄
