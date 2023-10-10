@@ -8,7 +8,6 @@ Olá! Meu nome é Bruno Costa Krumreich, e sou um desenvolvedor apaixonado por t
 ## Contato 📬
 
 - ✉️ Email: bruno.motteer@gmail.com (mailto:bruno.motteer@gmail.com)
-- 📞 Telefone: +55 53 999991698 (tel:+5553999991698)
 - 🌐 LinkedIn: https://www.linkedin.com/in/brunokrumreick/
 - WhatsApp: +55 53 999991698 (https://wa.me/5553999991698)
 
