@@ -16,12 +16,12 @@ Olá! Meu nome é Bruno Costa Krumreich, e sou um desenvolvedor apaixonado por t
 
 Aqui estão alguns dos projetos dos quais mais me orgulho:
 
-- App de Receitas ([https://github.com/seu-usuario/projeto1](https://github.com/brunocostak/Projeto_App_de_Receitas)): Um App para fazer suas receitas favoritas
+- App de Receitas ((https://github.com/brunocostak/Projeto_App_de_Receitas)): Um App para fazer suas receitas favoritas
   
 
 ## Currículo 📄
 
-- Meu Currículo([https://www.seucurriculo.com](https://drive.google.com/file/d/14YzjyAYItTwIUeF4rqzfW9FF3x_okFbH/view?usp=sharing)): Baixe meu currículo para obter mais informações sobre minha experiência e formação.
+- Meu Currículo((https://drive.google.com/file/d/14YzjyAYItTwIUeF4rqzfW9FF3x_okFbH/view?usp=sharing)): Baixe meu currículo para obter mais informações sobre minha experiência e formação.
 
 ## Tecnologias e Ferramentas 🛠️
 
